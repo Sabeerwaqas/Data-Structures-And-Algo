@@ -30,7 +30,7 @@ function selectionSort(arr) {
   return arr;
 }
 
-let array = [3,2,1,3];
+let array = [3, 2, 1, 3];
 
 console.log("Original Array =>", array);
 console.log("Sorted Array =>", selectionSort(array));
