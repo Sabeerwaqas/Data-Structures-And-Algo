@@ -1,3 +1,4 @@
+// normal case
 function recursion(i: number, j: number) {
   if (i > j) {
     return;

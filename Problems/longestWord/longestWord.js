@@ -6,8 +6,8 @@
 
     => Constraints
 
-    The input string may contain alphabetic characters, digits, soaces and punctuation.
-    The input strint will be non-empty.
+    The input string may contain alphabetic characters, digits, spaces and punctuation.
+    The input string will be non-empty.
     The input string may contain multiple words separated by spaces.
 
     => Note
@@ -20,10 +20,10 @@
 
 function longestWord(sentence) {
   let sentSplit = sentence.split(" ");
-  let lgWord = sentSplit[0];
   console.log(sentSplit);
-
-  for (let i = 1; i < sentSplit.length; i++) {
+  let lgWord = sentSplit[0];
+  // console.log("lgWord =>", lgWord);
+  for (let i = 0; i < sentSplit.length; i++) {
     if (sentSplit[i].length > lgWord.length) {
       lgWord = sentSplit[i];
     }
@@ -32,4 +32,4 @@ function longestWord(sentence) {
   return lgWord;
 }
 
-console.log(longestWord("This is VScode"));
+console.log(longestWord("Some people have curly brown hair till proper brushing"));
