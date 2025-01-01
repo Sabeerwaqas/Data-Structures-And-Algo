@@ -47,7 +47,7 @@
       <td>LeetCode</td>
       <td>Missing Number</td>
       <td>
-        <a href="[https://leetcode.com/problems/missing-number/description/](https://leetcode.com/problems/missing-number/submissions/1494256749)">Problem Link</a>
+        <a href="https://leetcode.com/problems/missing-number/description/](https://leetcode.com/problems/missing-number/submissions/1494256749">Problem Link</a>
       </td>
     </tr>
   </tbody>
