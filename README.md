@@ -13,6 +13,22 @@
        <td>Resource Link</td>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Singly linkedlist document and chatGPT conversation</td>
+      <td>
+        <ol>
+          <li>
+            <a href="https://www.scaler.com/topics/linked-list-in-javascript/" target="_blank">Document Link</a>
+          </li>
+          <li>
+            <a href="https://chatgpt.com/share/67755e74-12ac-8001-9192-550d18f008b3" target="_blank">chatGPT conversation</a>
+          </li>
+        </ol>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <h2>Problems</h2>
