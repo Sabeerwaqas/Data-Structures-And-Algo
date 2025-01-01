@@ -36,7 +36,19 @@
   <thead>
     <tr>
       <td>Serial No.</td>
+      <td>Platform</td>
+      <td>Problem Name</td>
        <td>Problem Link</td>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>LeetCode</td>
+      <td>Missing Number</td>
+      <td>
+        <a href="https://leetcode.com/problems/missing-number/description/">Problem Link</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
