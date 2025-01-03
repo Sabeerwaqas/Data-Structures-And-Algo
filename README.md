@@ -28,6 +28,16 @@
         </ol>
       </td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>Two Pointers & Hashmap</td>
+      <td>
+         <ul>
+          <li>Learn two pointers and hashmap algorithms using chatGPT.</li>
+          <li>You may see the chatGPT converation by <a href="https://chatgpt.com/share/67782685-6744-8001-bf31-c7ed51687318">Clicking Here</a></li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -59,6 +69,14 @@
           <li>After spending 1.5 hours, I decided to see a solution for this problem because this problem requires lot of conditions then on searching I found <a       href="https://duncan-mcardle.medium.com/leetcode-problem-8-string-to-integer-javascript-3b6d95c81cac">Solution Document</a>.</li>
           <li>The above blog <b>Solution Document</b> teaches me the benefits of <b>JavaScript's</b> <i>parseInt</i> function.</li>
         </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>LeetCode</td>
+      <td>Two Sum II - Input Array Is Sorted</td>
+      <td>
+        <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/">Problem Link</a>
       </td>
     </tr>
   </tbody>
