@@ -93,5 +93,13 @@
       <td>Print The Elements Of A LinkedList</td>
       <td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=true">Problem Link</a></td>
     </tr>
+    <tr>
+      <td>6</td>
+      <td>HackerRank</td>
+      <td>Insert A Node At A Tail Of A LinkedList</td>
+      <td>
+        <a href="https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?isFullScreen=true">Problem Link</a>
+      </td>
+    </tr>
   </tbody>
 </table>
