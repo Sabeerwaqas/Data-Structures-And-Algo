@@ -87,5 +87,11 @@
         <a href="https://leetcode.com/problems/find-the-difference/submissions/1497732335/)">Problem Link</a>
       </td>
     </tr>
+    <tr>
+      <td>5</td>
+      <td>HackerRank</td>
+      <td>Print The Elements Of A LinkedList</td>
+      <td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=true">Problem Link</a></td>
+    </tr>
   </tbody>
 </table>
