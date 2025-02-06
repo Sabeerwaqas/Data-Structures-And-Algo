@@ -1,8 +1,19 @@
 ![0_T7nlzhJ0eOb6YyVy](https://github.com/user-attachments/assets/a9ddc5da-e194-4cfb-985e-81f69f9844b6)
-<h1>Journey To Learn DSA and Problem Solving In JavaScript</h1>
 
-<p>Hello There, thankyou very much to take a time to visit this repo. I am <b>Sabeer</b> from <b>Pakistan, Karachi</b>. To think about learning <b>DSA</b> in <b>JavaScript</b> I didn't found enough resources at a single place to learn because most of the programmers learn it in C++ or Java programming language. I decided to share my resources via this repo to anyone who want to learn <b>DSA in JavaScript</b> to master problem solving along with making strong grasp in <b>JavaScript</b>.</p>
-<p>I have try to share and contribute my best in this repo to provide value for everyone who wants to learn <b>DSA</b> in <b>JavaScript</b>. For now you will find 2 tables below the 1<sup>st</sup> one is for resources and the 2<sup>nd</sup> one is for problems that I solved.</p>
+# Welcome to My DSA in JavaScript Repository!  
+
+Hello and thank you for visiting this repository!  
+
+I'm **Sabeer**, a **React.js Developer** from **Pakistan**. While exploring **Data Structures and Algorithms (DSA)** in **JavaScript**, I noticed a lack of comprehensive, well-structured resources in one place—most DSA materials are tailored for **C++** or **Java**. This inspired me to create this repository to help others who, like me, want to master **DSA in JavaScript** while strengthening their problem-solving skills.  
+
+I am following **Striver's DSA Series** and translating the problems covered in the series into **JavaScript**. My goal is to provide a structured and valuable learning experience for anyone looking to build a solid foundation in **DSA using JavaScript**.  
+
+## 📌 What's Inside?  
+✔ **A curated list of learning resources** for DSA in JavaScript.  
+✔ **A collection of solved problems**, categorized for easy navigation.  
+
+I hope this repository serves as a valuable resource in your learning journey. **Happy coding!** 🚀  
+
 
 <h2>Resources:</h2>
 <table>
