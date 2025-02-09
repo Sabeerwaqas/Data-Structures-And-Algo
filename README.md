@@ -41,6 +41,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
         </ul>
       </td>
     </tr>
+<!--     Singly linkedlist document and chatGPT conversation -->
     <tr>
       <td>1</td>
       <td>Singly linkedlist document and chatGPT conversation</td>
@@ -55,6 +56,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
         </ul>
       </td>
     </tr>
+<!--     Two Pointers & Hashmap -->
     <tr>
       <td>2</td>
       <td>Two Pointers & Hashmap</td>
@@ -67,7 +69,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
     </tr>
   </tbody>
 </table>
-
+<!-- Problems -->
 <h2>Problems</h2>
 <table>
   <thead>
@@ -79,6 +81,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
     </tr>
   </thead>
   <tbody>
+<!-- Missing Number -->
     <tr>
       <td>1</td>
       <td>LeetCode</td>
@@ -86,18 +89,21 @@ I hope this repository serves as a valuable resource in your learning journey. *
       <td>
         <a href="https://leetcode.com/problems/missing-number/submissions/1494256749">Problem Link</a>
       </td>
-    </tr> <tr>
+    </tr> 
+<!--     String to Integer -->
+    <tr>
       <td>2</td>
       <td>LeetCode</td>
       <td>String to Integer</td>
       <td>
         <a href="https://leetcode.com/problems/string-to-integer-atoi/submissions/">Problem Link</a>
         <ul>
-          <li>After spending 1.5 hours, I decided to see a solution for this problem because this problem requires lot of conditions then on searching I found <a       href="https://duncan-mcardle.medium.com/leetcode-problem-8-string-to-integer-javascript-3b6d95c81cac">Solution Document</a>.</li>
+          <li>After spending 1.5 hours, I decided to see a solution for this problem because this problem requires lot of conditions then on searching I found <a href="https://duncan-mcardle.medium.com/leetcode-problem-8-string-to-integer-javascript-3b6d95c81cac">Solution Document</a>.</li>
           <li>The above blog <b>Solution Document</b> teaches me the benefits of <b>JavaScript's</b> <i>parseInt</i> function.</li>
         </ul>
       </td>
     </tr>
+<!--     Two Sum II - Input Array Is Sorted -->
     <tr>
       <td>3</td>
       <td>LeetCode</td>
@@ -106,6 +112,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
         <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/">Problem Link</a>
       </td>
     </tr>
+<!--     Find The Difference -->
         <tr>
       <td>4</td>
       <td>LeetCode</td>
@@ -114,12 +121,14 @@ I hope this repository serves as a valuable resource in your learning journey. *
         <a href="https://leetcode.com/problems/find-the-difference/submissions/1497732335/)">Problem Link</a>
       </td>
     </tr>
+<!--     Print The Elements Of A LinkedList -->
     <tr>
       <td>5</td>
       <td>HackerRank</td>
       <td>Print The Elements Of A LinkedList</td>
       <td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=true">Problem Link</a></td>
     </tr>
+<!--     Insert A Node At A Tail Of A LinkedList -->
     <tr>
       <td>6</td>
       <td>HackerRank</td>
