@@ -25,18 +25,34 @@ I hope this repository serves as a valuable resource in your learning journey. *
     </tr>
   </thead>
   <tbody>
+<!--     Time and Space Complexity - Strivers A2Z DSA Course -->
+    <tr>
+      <td>
+        1
+      </td>
+      <td>
+        Time and Space Complexity - Strivers A2Z DSA Course
+      </td>
+      <td>
+        <ul>
+          <li>
+            <a href="https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/" target="_blank">Time and Space Complexity - Strivers A2Z   DSA Course</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td>1</td>
       <td>Singly linkedlist document and chatGPT conversation</td>
       <td>
-        <ol>
+        <ul>
           <li>
             <a href="https://www.scaler.com/topics/linked-list-in-javascript/" target="_blank">Document Link</a>
           </li>
           <li>
             <a href="https://chatgpt.com/share/67755e74-12ac-8001-9192-550d18f008b3" target="_blank">chatGPT conversation</a>
           </li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
