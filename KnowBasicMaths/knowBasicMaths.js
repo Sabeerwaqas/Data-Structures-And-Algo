@@ -1,6 +1,6 @@
 // ----- Count Digits In a Number ----- \\
 
-// ----- My Approach ----- \\
+// <----- My Approach -----> \\
 
 function countDigits(number) {
   let stringifyNum = number?.toString();
@@ -20,7 +20,7 @@ function countDigitsByLog(number) {
 
 console.log("countDigitsByLog =>", countDigitsByLog(234));
 
-// ----- Revers a Number ----- \\
+// <----- Revers a Number -----> \\
 
 function reverseANumber(number) {
   let revNum = null;
@@ -35,7 +35,7 @@ function reverseANumber(number) {
 
 console.log("reverseANumber =>", reverseANumber(2312));
 
-// ----- Check If a Number Is Palindrome ----- \\
+// <----- Check If a Number Is Palindrome -----> \\
 
 function isNumPalindrome(num) {
   let originalNum = num;
@@ -55,7 +55,7 @@ function isNumPalindrome(num) {
 
 console.log("isNumPalindrome =>", isNumPalindrome);
 
-// ----- Greatest Common Divisor (GCD) ----- \\
+// <----- Greatest Common Divisor (GCD) -----> \\
 
 // =====> Brute Force Approach <===== \\
 
@@ -84,3 +84,29 @@ function betterApproachGCD(num1, num2) {
 }
 
 console.log("betterApproachGCD =>", betterApproachGCD(12, 3));
+
+// <----- Armstron Number -----> \\
+
+// =====> An Amrstrong number is a number that is equal to the sum of its own digits each raised to the power of the number of digits. <===== \\
+
+function isArmstrongNum(num) {
+  let copyNum = num;
+  let numToCount = num;
+  let count = 0;
+  let finalVal = 0;
+
+  while (numToCount > 0) {
+    count = count + 1;
+    numToCount = Math.floor(numToCount / 10);
+  }
+
+  while (copyNum > 0) {
+    let lastDigit = copyNum % 10;
+    finalVal += Math.pow(lastDigit, count);
+    copyNum = Math.floor(copyNum / 10);
+  }
+
+  return finalVal === num ? true : false;
+}
+
+console.log("isArmstrong Number =>", isArmstrongNum(153));
