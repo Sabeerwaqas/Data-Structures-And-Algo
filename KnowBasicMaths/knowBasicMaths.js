@@ -110,3 +110,35 @@ function isArmstrongNum(num) {
 }
 
 console.log("isArmstrong Number =>", isArmstrongNum(153));
+
+// -----> Print all divisors <----- \\
+
+function checkDivisors(num) {
+  let givenNum = num;
+  let divisors = [];
+
+  for (let i = 0; i <= givenNum; i++) {
+    if (givenNum % i === 0) {
+      divisors.push(i);
+    }
+  }
+
+  return divisors;
+}
+
+console.log("divisors =>", checkDivisors(20));
+
+// -----> isPrime <----- \\
+
+function checkPrime(n) {
+  let cnt = 0;
+  for (let i = 2; i < n; i++) {
+      if (n % i === 0) {
+          return false;
+      }
+  }
+  return true;
+}
+
+
+console.log(checkPrime(3));
