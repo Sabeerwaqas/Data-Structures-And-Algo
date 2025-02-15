@@ -18,34 +18,75 @@ I hope this repository serves as a valuable resource in your learning journey. *
 <h2>Resources:</h2>
 <table>
   <thead>
-    <tr>
-      <td>Serial No.</td>
-       <td>Resource Type</td>
-       <td>Resource Link</td>
+    <tr align="center">
+      <td align="center"><b>Serial No.</b></td>
+       <td align="center"><b>Resource Type</b></td>
+       <td align="center"><b>Resource Link</b></td>
     </tr>
   </thead>
   <tbody>
 <!--     Time and Space Complexity - Strivers A2Z DSA Course -->
     <tr>
-      <td>
+      <td align="center">
         1
       </td>
-      <td>
+      <td align="center">
         Time and Space Complexity - Strivers A2Z DSA Course
       </td>
-      <td>
-        <ul>
-          <li>
-            <a href="https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/" target="_blank">Time and Space Complexity - Strivers A2Z   DSA Course</a>
-          </li>
-        </ul>
+      <td align="center"><a href="https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/" target="_blank">Time and Space Complexity - Strivers A2Z   DSA Course</a>
       </td>
+    </tr>
+<!-- ====> Basic Maths <===== -->
+    <tr>
+      <td colspan="4" align="center"><b>Basic Maths (Strivers A2Z DSA Course/Sheet)</b></td>
+    </tr>
+<!-- Count Digits -->
+    <tr>
+      <td align="center">1</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/count-digits-in-a-number/">Count Digits</a></td>
+    </tr>
+<!-- Reverse a Number -->
+      <tr>
+      <td align="center">2</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/maths/reverse-digits-of-a-number">Reverse a Number</a></td>
+    </tr>
+<!-- Check Palindrome -->
+      <tr>
+      <td align="center">3</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/">Check Palindrome</a></td>
+    </tr>
+<!-- GCD or HCF -->
+      <tr>
+      <td align="center">4</td>
+     <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/find-gcd-of-two-numbers/">GCD or HCF</a></td>
+    </tr>
+<!-- Armstrong Number -->
+      <tr>
+      <td align="center">5</td>
+    <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/">Armstrong Number</a></td>
+    </tr>
+<!-- Print all Divisors -->
+      <tr>
+      <td align="center">6</td>
+     <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/">Print All Divisors </a></td>
+    </tr>
+<!-- Check for Prime -->
+      <tr>
+      <td align="center">4</td>
+     <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/">Check For Prime</a></td>
     </tr>
 <!--     Singly linkedlist document and chatGPT conversation -->
     <tr>
-      <td>1</td>
+      <td align="center">2</td>
       <td>Singly linkedlist document and chatGPT conversation</td>
-      <td>
+      <td align="center">
         <ul>
           <li>
             <a href="https://www.scaler.com/topics/linked-list-in-javascript/" target="_blank">Document Link</a>
@@ -56,11 +97,11 @@ I hope this repository serves as a valuable resource in your learning journey. *
         </ul>
       </td>
     </tr>
-<!--     Two Pointers & Hashmap -->
+<!-- Two Pointers & Hashmap -->
     <tr>
-      <td>2</td>
-      <td>Two Pointers & Hashmap</td>
-      <td>
+      <td align="center">3</td>
+      <td align="center">Two Pointers & Hashmap</td>
+      <td align="center">
          <ul>
           <li>Learn two pointers and hashmap algorithms using chatGPT.</li>
           <li>You may see the chatGPT converation by <a href="https://chatgpt.com/share/67782685-6744-8001-bf31-c7ed51687318">Clicking Here</a></li>
@@ -73,7 +114,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
 <h2>Problems</h2>
 <table>
   <thead>
-    <tr>
+    <tr align="center">
       <td>Serial No.</td>
       <td>Platform</td>
       <td>Problem Name</td>
@@ -82,7 +123,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
   </thead>
   <tbody>
 <!-- Missing Number -->
-    <tr>
+    <tr align="center">
       <td>1</td>
       <td>LeetCode</td>
       <td>Missing Number</td>
@@ -90,8 +131,8 @@ I hope this repository serves as a valuable resource in your learning journey. *
         <a href="https://leetcode.com/problems/missing-number/submissions/1494256749">Problem Link</a>
       </td>
     </tr> 
-<!--     String to Integer -->
-    <tr>
+<!-- String to Integer -->
+    <tr align="center">
       <td>2</td>
       <td>LeetCode</td>
       <td>String to Integer</td>
@@ -103,8 +144,8 @@ I hope this repository serves as a valuable resource in your learning journey. *
         </ul>
       </td>
     </tr>
-<!--     Two Sum II - Input Array Is Sorted -->
-    <tr>
+<!-- Two Sum II - Input Array Is Sorted -->
+    <tr align="center">
       <td>3</td>
       <td>LeetCode</td>
       <td>Two Sum II - Input Array Is Sorted</td>
@@ -112,8 +153,8 @@ I hope this repository serves as a valuable resource in your learning journey. *
         <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/">Problem Link</a>
       </td>
     </tr>
-<!--     Find The Difference -->
-        <tr>
+<!-- Find The Difference -->
+        <tr align="center">
       <td>4</td>
       <td>LeetCode</td>
       <td>Find The Difference</td>
@@ -121,15 +162,15 @@ I hope this repository serves as a valuable resource in your learning journey. *
         <a href="https://leetcode.com/problems/find-the-difference/submissions/1497732335/)">Problem Link</a>
       </td>
     </tr>
-<!--     Print The Elements Of A LinkedList -->
-    <tr>
+<!-- Print The Elements Of A LinkedList -->
+    <tr align="center">
       <td>5</td>
       <td>HackerRank</td>
       <td>Print The Elements Of A LinkedList</td>
       <td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=true">Problem Link</a></td>
     </tr>
-<!--     Insert A Node At A Tail Of A LinkedList -->
-    <tr>
+<!-- Insert A Node At A Tail Of A LinkedList -->
+    <tr align="center">
       <td>6</td>
       <td>HackerRank</td>
       <td>Insert A Node At A Tail Of A LinkedList</td>
