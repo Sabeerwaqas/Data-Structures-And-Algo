@@ -1,4 +1,4 @@
-![0_T7nlzhJ0eOb6YyVy](https://github.com/user-attachments/assets/a9ddc5da-e194-4cfb-985e-81f69f9844b6)
+<img src="https://github.com/user-attachments/assets/a9ddc5da-e194-4cfb-985e-81f69f9844b6" alt="Animated Image" width="1000"/>
 
 # Welcome to My DSA in JavaScript Repository!  
 
