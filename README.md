@@ -36,7 +36,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
       <td align="center"><a href="https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/" target="_blank">Time and Space Complexity - Strivers A2Z   DSA Course</a>
       </td>
     </tr>
-<!-- ====> Basic Maths <===== -->
+<!-- ====> Basic Maths Start <===== -->
     <tr>
       <td colspan="4" align="center"><b>Basic Maths (Strivers A2Z DSA Course/Sheet)</b></td>
     </tr>
@@ -82,7 +82,19 @@ I hope this repository serves as a valuable resource in your learning journey. *
      <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/">Check For Prime</a></td>
     </tr>
-<!--     Singly linkedlist document and chatGPT conversation -->
+<!-- =====> Basic Maths End <===== -->
+<!-- =====> Recursion Start <===== -->
+     <tr>
+      <td colspan="4" align="center"><b>Learn Recursions (Strivers A2Z DSA Course/Sheet)</b></td>
+    </tr>
+<!-- Learn Recursion By Print Something N Times -->
+      <tr>
+      <td align="center">✔️</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/">Learn Recursion By Print Something N Times</a></td>
+    </tr>
+<!-- =====> Recursion End <===== -->
+<!-- =====> Singly linkedlist document and chatGPT conversation start <===== -->
     <tr>
       <td align="center">2</td>
       <td>Singly linkedlist document and chatGPT conversation</td>
@@ -97,7 +109,8 @@ I hope this repository serves as a valuable resource in your learning journey. *
         </ul>
       </td>
     </tr>
-<!-- Two Pointers & Hashmap -->
+    <!-- =====> Singly linkedlist document and chatGPT conversation end <===== -->
+<!-- =====> Two Pointers & Hashmap Start <===== -->
     <tr>
       <td align="center">3</td>
       <td align="center">Two Pointers & Hashmap</td>
@@ -108,6 +121,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
         </ul>
       </td>
     </tr>
+    <!-- =====> Two Pointers & Hashmap End <===== -->
   </tbody>
 </table>
 <!-- Problems -->
