@@ -93,6 +93,12 @@ I hope this repository serves as a valuable resource in your learning journey. *
       <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/">Learn Recursion By Print Something N Times</a></td>
     </tr>
+<!-- Print name N times using recursion -->
+       <tr>
+      <td align="center">✔️</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/recursion/print-name-n-times-using-recursion/">Print name N times using recursion</a></td>
+    </tr>
 <!-- =====> Recursion End <===== -->
 <!-- =====> Singly linkedlist document and chatGPT conversation start <===== -->
     <tr>
