@@ -111,6 +111,12 @@ I hope this repository serves as a valuable resource in your learning journey. *
       <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/recursion/print-n-to-1-using-recursion/">Print N To 1 Using Recursion</a></td>
     </tr>
+<!-- Sum of first N Natural Numbers -->
+ <tr>
+      <td align="center">✔️</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/">Sum Of First N Natural Numbers</a></td>
+    </tr>
 <!-- =====> Recursion End <===== -->
 <!-- =====> Singly linkedlist document and chatGPT conversation start <===== -->
     <tr>
