@@ -105,6 +105,12 @@ I hope this repository serves as a valuable resource in your learning journey. *
       <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/recursion/print-1-to-n-using-recursion/">Print 1 To N Using Recursion</a></td>
     </tr>
+<!-- Print N to 1 using recursion -->
+       <tr>
+      <td align="center">✔️</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/recursion/print-n-to-1-using-recursion/">Print N To 1 Using Recursion</a></td>
+    </tr>
 <!-- =====> Recursion End <===== -->
 <!-- =====> Singly linkedlist document and chatGPT conversation start <===== -->
     <tr>
