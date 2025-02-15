@@ -42,43 +42,43 @@ I hope this repository serves as a valuable resource in your learning journey. *
     </tr>
 <!-- Count Digits -->
     <tr>
-      <td align="center">1</td>
+      <td align="center">✔️</td>
       <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/data-structure/count-digits-in-a-number/">Count Digits</a></td>
     </tr>
 <!-- Reverse a Number -->
       <tr>
-      <td align="center">2</td>
+      <td align="center">✔️</td>
       <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/maths/reverse-digits-of-a-number">Reverse a Number</a></td>
     </tr>
 <!-- Check Palindrome -->
       <tr>
-      <td align="center">3</td>
+      <td align="center">✔️</td>
       <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/">Check Palindrome</a></td>
     </tr>
 <!-- GCD or HCF -->
       <tr>
-      <td align="center">4</td>
+      <td align="center">✔️</td>
      <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/data-structure/find-gcd-of-two-numbers/">GCD or HCF</a></td>
     </tr>
 <!-- Armstrong Number -->
       <tr>
-      <td align="center">5</td>
+      <td align="center">✔️</td>
     <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/">Armstrong Number</a></td>
     </tr>
 <!-- Print all Divisors -->
       <tr>
-      <td align="center">6</td>
+      <td align="center">✔️</td>
      <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/">Print All Divisors </a></td>
     </tr>
 <!-- Check for Prime -->
       <tr>
-      <td align="center">4</td>
+      <td align="center">✔️</td>
      <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/">Check For Prime</a></td>
     </tr>
