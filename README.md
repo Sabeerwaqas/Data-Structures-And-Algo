@@ -116,8 +116,15 @@ I hope this repository serves as a valuable resource in your learning journey. *
       <td align="center">✔️</td>
       <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/">Sum Of First N Natural Numbers</a></td>
-    </tr>
+  </tr>
 <!-- =====> Recursion End <===== -->
+<!-- Factorial of a Number : Recursive -->
+    <tr>
+      <td align="center">✔️</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive/">Factorial of a Number : Iterative and Recursive</a>
+      </td>
+  </tr>
 <!-- =====> Singly linkedlist document and chatGPT conversation start <===== -->
     <tr>
       <td align="center">2</td>
