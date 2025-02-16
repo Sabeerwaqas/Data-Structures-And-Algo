@@ -143,7 +143,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
 <!-- =====> Recursion End <===== -->
 <!-- =====> Singly linkedlist document and chatGPT conversation start <===== -->
     <tr>
-      <td align="center">3</td>
+      <td align="center">4</td>
       <td>Singly linkedlist document and chatGPT conversation</td>
       <td align="center">
         <ul>
@@ -159,7 +159,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
     <!-- =====> Singly linkedlist document and chatGPT conversation end <===== -->
 <!-- =====> Two Pointers & Hashmap Start <===== -->
     <tr>
-      <td align="center">4</td>
+      <td align="center">5</td>
       <td align="center">Two Pointers & Hashmap</td>
       <td align="center">
          <ul>
