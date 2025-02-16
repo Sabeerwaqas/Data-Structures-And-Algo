@@ -85,7 +85,8 @@ I hope this repository serves as a valuable resource in your learning journey. *
 <!-- =====> Basic Maths End <===== -->
 <!-- =====> Recursion Start <===== -->
     <tr>
-      <td colspan="4" align="center"><b>Learn Recursions (Strivers A2Z DSA Course/Sheet)</b>
+    <td>2</td>
+      <td colspan="3" align="center"><b>Learn Recursions (Strivers A2Z DSA Course/Sheet)</b>
       </td>
     </tr>
 <!-- Learn Recursion By Print Something N Times -->
@@ -117,30 +118,30 @@ I hope this repository serves as a valuable resource in your learning journey. *
       </td>
     </tr>
 <!-- Sum of first N Natural Numbers -->
- <tr>
+     <tr>
       <td align="center">✔️</td>
       <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/">Sum Of First N Natural Numbers</a>
       </td>
-  </tr>
+    </tr>
     <!-- Factorial of a Number : Recursive -->
     <tr>
       <td align="center">✔️</td>
       <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive/">Factorial of a Number : Iterative and Recursive</a>
       </td>
-  </tr>
+   </tr>
 <!-- Reverse an array -->
-  <tr>
-      <td align="center">✔️</td>
+   <tr>
+     <td align="center">✔️</td>
       <td align="center">Article</td>
       <td align="center"><a href="https://takeuforward.org/data-structure/reverse-a-given-array/ ">Reverse an Array</a>
       </td>
-  </tr>
+    </tr>
 <!-- =====> Recursion End <===== -->
 <!-- =====> Singly linkedlist document and chatGPT conversation start <===== -->
     <tr>
-      <td align="center">2</td>
+      <td align="center">3</td>
       <td>Singly linkedlist document and chatGPT conversation</td>
       <td align="center">
         <ul>
@@ -156,7 +157,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
     <!-- =====> Singly linkedlist document and chatGPT conversation end <===== -->
 <!-- =====> Two Pointers & Hashmap Start <===== -->
     <tr>
-      <td align="center">3</td>
+      <td align="center">4</td>
       <td align="center">Two Pointers & Hashmap</td>
       <td align="center">
          <ul>
