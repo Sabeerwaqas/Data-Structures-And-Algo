@@ -38,7 +38,9 @@ I hope this repository serves as a valuable resource in your learning journey. *
     </tr>
 <!-- ====> Basic Maths Start <===== -->
     <tr>
-      <td colspan="4" align="center"><b>Basic Maths (Strivers A2Z DSA Course/Sheet)</b></td>
+    <td align="center">2</td>
+      <td colspan="4" align="center"><b>Basic Maths (Strivers A2Z DSA Course/Sheet)</b>
+      </td>
     </tr>
 <!-- Count Digits -->
     <tr>
@@ -85,7 +87,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
 <!-- =====> Basic Maths End <===== -->
 <!-- =====> Recursion Start <===== -->
     <tr>
-    <td>2</td>
+    <td align="center">3</td>
       <td colspan="3" align="center"><b>Learn Recursions (Strivers A2Z DSA Course/Sheet)</b>
       </td>
     </tr>
@@ -213,7 +215,7 @@ I hope this repository serves as a valuable resource in your learning journey. *
       </td>
     </tr>
 <!-- Find The Difference -->
-        <tr align="center">
+    <tr align="center">
       <td>4</td>
       <td>LeetCode</td>
       <td>Find The Difference</td>
