@@ -69,3 +69,22 @@ function reverseAnArray(arr, sortedArray = []) {
 }
 
 console.log("sortedArray =>", reverseAnArray([5, 4, 3, 2, 1]));
+
+// -----> Print Fibonacci Series up to Nth term <----- \\
+
+function printFibonnaciSeries(number, FibonnaciNums = []) {
+  if (FibonnaciNums.length === number) return FibonnaciNums;
+
+  if (FibonnaciNums.length < 2) {
+    FibonnaciNums.push(FibonnaciNums.length);
+  } else {
+    FibonnaciNums.push(
+      FibonnaciNums[FibonnaciNums.length - 1] +
+        FibonnaciNums[FibonnaciNums.length - 2]
+    );
+  }
+
+  return printFibonnaciSeries(number, FibonnaciNums);
+}
+
+console.log("printFibonnaciSeries =>", printFibonnaciSeries(5));
