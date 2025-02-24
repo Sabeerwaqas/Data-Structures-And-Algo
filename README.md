@@ -239,5 +239,14 @@ I hope this repository serves as a valuable resource in your learning journey. *
         <a href="https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?isFullScreen=true">Problem Link</a>
       </td>
     </tr>
+<!-- Fibonacci Number -->
+    <tr align="center">
+      <td>7</td>
+      <td>LeetCode</td>
+      <td>Fibonacci Number</td>
+      <td>
+        <a href="https://leetcode.com/problems/fibonacci-number/submissions/1552965003/">Problem Link</a>
+      </td>
+    </tr>
   </tbody>
 </table>
