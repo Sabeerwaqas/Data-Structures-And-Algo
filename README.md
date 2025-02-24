@@ -140,6 +140,20 @@ I hope this repository serves as a valuable resource in your learning journey. *
       <td align="center"><a href="https://takeuforward.org/data-structure/reverse-a-given-array/ ">Reverse an Array</a>
       </td>
     </tr>
+<!-- Check if a given string is palindrome or not -->
+    <tr>
+      <td align="center">✔️</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/">Check If a Given String Is Palindrome or Not</a>
+      </td>
+    </tr>
+<!-- Fibonacci Number -->
+    <tr>
+      <td align="center">✔️</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/">Fibonacci Number</a>
+      </td>
+    </tr>
 <!-- =====> Recursion End <===== -->
 <!-- =====> Singly linkedlist document and chatGPT conversation start <===== -->
     <tr>
