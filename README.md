@@ -155,9 +155,29 @@ I hope this repository serves as a valuable resource in your learning journey. *
       </td>
     </tr>
 <!-- =====> Recursion End <===== -->
+<!-- Hashing Start -->
+     <tr>
+    <td align="center">4</td>
+      <td colspan="3" align="center"><b>Learn Basic Hashing (Strivers A2Z DSA Course/Sheet + chatGPT Conversation)</b> </td>
+    </tr>
+<!-- Basic Hashing -->
+    <tr>
+      <td align="center">✔️</td>
+      <td align="center">chatGPT Conversation</td>
+      <td align="center"><a href="https://chatgpt.com/share/67c09543-d0ac-8001-ba6c-1e5e91f64798">Basics of Hashing</a>
+      </td>
+    </tr>
+<!-- Count frequency of numbers -->
+     <tr>
+      <td align="center">✔️</td>
+      <td align="center">Article</td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/count-frequency-of-each-element-in-the-array/">Count Frequency of Each Number</a>
+      </td>
+    </tr>
+<!-- Hashing End -->
 <!-- =====> Singly linkedlist document and chatGPT conversation start <===== -->
     <tr>
-      <td align="center">4</td>
+      <td align="center">5</td>
       <td>Singly linkedlist document and chatGPT conversation</td>
       <td align="center">
         <ul>
