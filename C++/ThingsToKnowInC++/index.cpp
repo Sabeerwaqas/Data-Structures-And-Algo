@@ -5,11 +5,33 @@ using namespace std;
 
 int main()
 {
-    // -----> Printing string <----- \\
 
-    string str;
-    cout << "Enter your name" << endl;
-    getline(cin, str);
-    cout << "Full Name: " << str << endl;
-    return 0;
+    // -----> Patterns <----- \\
+
+    // =====> Square Patterns
+
+    int num = 5;
+
+    for (int i = 1; i <= num; i++)
+    {
+        for (int j = 1; j <= num; j++)
+        {
+            cout << j << " ";
+        }
+        cout << endl;
+    }
+
+    int numToPrint = 9;
+
+    for (int i = 1; i <= numToPrint; i++)
+    {
+        if (i % 3 == 0)
+        {
+            cout << i << endl;
+        }
+        else
+        {
+            cout << i << " ";
+        }
+    }
 }
