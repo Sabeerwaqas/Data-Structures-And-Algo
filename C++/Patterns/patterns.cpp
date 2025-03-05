@@ -52,9 +52,39 @@ void printNumStairsOfNum(int num)
 
 void reverseRightAngledTriangle(int num)
 {
-    for(int i = num; i >= 1; i--){
-        for(int j = 1; j <= i; j++){
-        cout << "*";
+    for (int i = num; i >= 1; i--)
+    {
+        for (int j = 1; j <= i; j++)
+        {
+            cout << "*";
+        }
+        cout << endl;
+    }
+}
+
+void numRightAngledTriangle(int num)
+{
+    for (int i = num; i >= 1; i--)
+    {
+        for (int j = 1; j <= i; j++)
+        {
+            cout << j;
+        }
+        cout << endl;
+    }
+}
+
+void diamondTriangle(int num)
+{
+    for (int i = num; i >= 1; i--)
+    {
+        for (int j = 1; j <= num - i; j++)
+        {
+            cout << " ";  
+        }
+        for (int k = 1; k <= i; k++)
+        {
+            cout << "* ";  
         }
         cout << endl;
     }
@@ -86,17 +116,30 @@ int main()
 
     // -----> printNumStairsOfNum <----- \\ 
 
-    int numOfStairsOfNum;
-    cout << "Enter num of stairs of num" << endl;
-    cin >> numOfStairsOfNum;
-    printNumStairsOfNum(numOfStairsOfNum);
+    // int numOfStairsOfNum;
+    // cout << "Enter num of stairs of num" << endl;
+    // cin >> numOfStairsOfNum;
+    // printNumStairsOfNum(numOfStairsOfNum);
 
     // -----> reverseRightAngledTriangle <----- \\
 
-    int numOftriangle;
-    cout << "Enter num of Triangle" << endl;
-    cin >> numOftriangle;
-    reverseRightAngledTriangle(numOftriangle);
+    // int numOftriangle;
+    // cout << "Enter num of Triangle" << endl;
+    // cin >> numOftriangle;
+    // reverseRightAngledTriangle(numOftriangle);
 
+    // -----> numRightAngledTriangle <----- \\
+
+    // int numOfRevTri;
+    // cout << "Enter number" << endl;
+    // cin >> numOfRevTri;
+    // numRightAngledTriangle(5);
+
+    // -----> diamondTriangle <----- \\
+
+    int diamondNum;
+    cout << "Enter Number" << endl;
+    cin >> diamondNum;
+    diamondTriangle(diamondNum);
     return 0;
 }
