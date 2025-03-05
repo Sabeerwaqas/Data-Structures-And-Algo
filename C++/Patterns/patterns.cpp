@@ -26,6 +26,18 @@ void printStairs(int num)
     }
 }
 
+void printNumStairs(int num)
+{
+    for (int i = 1; i <= num; i++)
+    {
+        for (int j = 1; j <= i; j++)
+        {
+            cout << j;
+        }
+        cout << endl;
+    }
+}
+
 int main()
 {
 
@@ -38,9 +50,17 @@ int main()
 
     // -----> printStairs <----- \\
 
-    int numOfStairs;
-    cout << "Enter stairs number" << endl;
-    cin >> numOfStairs;
-    printStairs(numOfStairs);
+    // int numOfStairs;
+    // cout << "Enter stairs number" << endl;
+    // cin >> numOfStairs;
+    // printStairs(numOfStairs);
+
+    // -----> printNumStairs <----- \\
+
+    int numberStairs;
+    cout << "Enter number for stairs" << endl;
+    cin >> numberStairs;
+    printNumStairs(numberStairs);
+
     return 0;
 }
