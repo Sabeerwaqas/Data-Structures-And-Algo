@@ -50,6 +50,16 @@ void printNumStairsOfNum(int num)
     }
 }
 
+void reverseRightAngledTriangle(int num)
+{
+    for(int i = num; i >= 1; i--){
+        for(int j = 1; j <= i; j++){
+        cout << "*";
+        }
+        cout << endl;
+    }
+}
+
 int main()
 {
 
@@ -80,6 +90,13 @@ int main()
     cout << "Enter num of stairs of num" << endl;
     cin >> numOfStairsOfNum;
     printNumStairsOfNum(numOfStairsOfNum);
+
+    // -----> reverseRightAngledTriangle <----- \\
+
+    int numOftriangle;
+    cout << "Enter num of Triangle" << endl;
+    cin >> numOftriangle;
+    reverseRightAngledTriangle(numOftriangle);
 
     return 0;
 }
