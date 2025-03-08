@@ -21,12 +21,32 @@ string decimalToBinary(int num)
     return bin;
 }
 
+int binaryToDecimal(int num)
+{
+    int givenNum = num;
+    int base = 1;
+    int decimal = 0;
+    while (givenNum > 0)
+    {
+        int lastDigit = givenNum % 10;
+        decimal += lastDigit * base;
+        base *= 2;
+        givenNum /= 10;
+    }
+
+    return decimal;
+}
+
 int main()
 {
 
     // -----> Decimal To Binary <----- \\
 
     cout << "Decimal To Binary: " << decimalToBinary(2) << endl;
+
+    // -----> Binary To Decimal <----- \\
+
+    cout << "Binary To Decimal: " << binaryToDecimal(10) << endl;
 
     return 0;
 }
