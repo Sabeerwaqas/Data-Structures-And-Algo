@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm>
+#include <string>
 
 using namespace std;
 
@@ -14,7 +15,7 @@ string decimalToBinary(int num)
     {
         int lastDigit = givenNum % 2;
         bin.push_back('0' + lastDigit);
-        lastDigit /= 2;
+        givenNum /= 2;
     }
     reverse(bin.begin(), bin.end());
     return bin;
@@ -25,7 +26,7 @@ int main()
 
     // -----> Decimal To Binary <----- \\
 
-    cout << "Decimal To Binary: " << decimalToBinary(2453) << endl;
+    cout << "Decimal To Binary: " << decimalToBinary(2) << endl;
 
     return 0;
 }
