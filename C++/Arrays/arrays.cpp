@@ -55,6 +55,39 @@ void productOfArray(int arr[], int size)
     cout << "Product => " << product << endl;
 }
 
+void swapMinMax(int arr[], int size)
+{
+
+    int minIndex = 0;
+    int maxIndex = 0;
+    int temp = 0;
+
+    for (int i = 0; i < size - 1; i++)
+    {
+        if (arr[i] < arr[minIndex])
+        {
+            minIndex = i;
+        }
+        else if (arr[i] > arr[maxIndex])
+        {
+            maxIndex = i;
+        }
+    }
+
+    temp = arr[minIndex];
+
+    arr[minIndex] = arr[maxIndex];
+    arr[maxIndex] = temp;
+
+    cout << "Array after swapping min & max: ";
+
+    for (int i = 0; i < size; i++)
+    {
+        cout << arr[i] << " ";
+    }
+    cout << endl;
+}
+
 int main()
 {
     // -----> Program to find smallest number in an array <----- \\
@@ -92,6 +125,10 @@ int main()
     // -----> Product of Array <----- \\
 
     productOfArray(numsArr, lengthOfArr);
+
+    // -----> Swap min and max <----- \\
+
+    swapMinMax(numsArr, lengthOfArr);
 
     return 0;
 }
