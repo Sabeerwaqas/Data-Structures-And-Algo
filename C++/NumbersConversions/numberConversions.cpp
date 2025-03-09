@@ -13,8 +13,8 @@ string decimalToBinary(int num)
     string bin = "";
     while (givenNum > 0)
     {
-        int lastDigit = givenNum % 2;
-        bin.push_back('0' + lastDigit);
+        int remainder = givenNum % 2;
+        bin.push_back('0' + remainder);
         givenNum /= 2;
     }
     reverse(bin.begin(), bin.end());
@@ -42,11 +42,11 @@ int main()
 
     // -----> Decimal To Binary <----- \\
 
-    cout << "Decimal To Binary: " << decimalToBinary(2) << endl;
+    cout << "Decimal To Binary: " << decimalToBinary(6) << endl;
 
     // -----> Binary To Decimal <----- \\
 
-    cout << "Binary To Decimal: " << binaryToDecimal(10) << endl;
+    cout << "Binary To Decimal: " << binaryToDecimal(1100) << endl;
 
     return 0;
 }
