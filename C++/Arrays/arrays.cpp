@@ -31,6 +31,30 @@ void reverseArray(int array[], int length)
     }
 }
 
+void sumOfArray(int array[], int size)
+{
+    int sum = 0;
+
+    for (int i = 0; i < size - 1; i++)
+    {
+        sum += array[i];
+    }
+
+    cout << "Sum of array => " << sum << endl;
+}
+
+void productOfArray(int arr[], int size)
+{
+    int product = 1;
+
+    for (int i = 0; i < size - 1; i++)
+    {
+        product *= arr[i];
+    }
+
+    cout << "Product => " << product << endl;
+}
+
 int main()
 {
     // -----> Program to find smallest number in an array <----- \\
@@ -60,6 +84,14 @@ int main()
     }
 
     reverseArray(numsArr, lengthOfArr);
+
+    // -----> Some of Array <----- \\
+
+    sumOfArray(numsArr, lengthOfArr);
+
+    // -----> Product of Array <----- \\
+
+    productOfArray(numsArr, lengthOfArr);
 
     return 0;
 }
