@@ -88,11 +88,50 @@ void swapMinMax(int arr[], int size)
     cout << endl;
 }
 
+void printUniqueVal(int arr[], int size)
+{
+
+    for (int i = 0; i < size; i++)
+    {
+        bool isUnique = true;
+        for (int j = 0; j < size; j++)
+        {
+            if (i != j && arr[i] == arr[j])
+            {
+                isUnique = false;
+                break;
+            }
+        }
+        if (isUnique)
+        {
+            cout << arr[i] << endl;
+        }
+    }
+}
+
+void intersectionOfArrays(int arr1[], int size1, int arr2[], int size2)
+{
+    cout << "Intersection of 2 arrays:" << endl;
+
+    for (int i = 0; i < size1; i++)
+
+    {
+        for (int j = 0; j < size2; j++)
+        {
+            if (arr1[i] == arr2[j])
+            {
+                cout << arr1[i] << endl;
+                break;
+            }
+        }
+    }
+}
+
 int main()
 {
     // -----> Program to find smallest number in an array <----- \\
 
-    int numsArr[5] = {12, 43, 21, 5, 1};
+    int numsArr[6] = {12, 43, 21, 5, 1, 1};
     int lengthOfArr = sizeof(numsArr) / sizeof(numsArr[0]);
     int smallest = numsArr[0];
 
@@ -129,6 +168,20 @@ int main()
     // -----> Swap min and max <----- \\
 
     swapMinMax(numsArr, lengthOfArr);
+
+    // -----> Print unique values <----- \\
+
+    printUniqueVal(numsArr, lengthOfArr);
+
+    // -----> Intersection of arrays <----- \\
+
+    int arr1[] = {1, 2, 3, 4, 5};
+    int arr2[] = {2, 5, 7};
+
+    int size1 = sizeof(arr1) / sizeof(arr1[0]);
+    int size2 = sizeof(arr2) / sizeof(arr2[0]);
+
+    intersectionOfArrays(arr1, size1, arr2, size2);
 
     return 0;
 }
