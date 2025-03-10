@@ -1,22 +1,22 @@
-<img src="https://github.com/user-attachments/assets/a9ddc5da-e194-4cfb-985e-81f69f9844b6" alt="Animated Image" width="1000"/>
+<img src="https://github.com/user-attachments/assets/ed76605d-152f-49b8-b9b0-cf7d734a7621" alt="Animated Image" width="1000"/>
 
-# Welcome to My DSA in JavaScript Repository!
+# Welcome to My Data Structures & Algo. Repository!
 
 Hello and thank you for visiting this repository!
 
-I'm **Sabeer**, a **React.js Developer** from **Pakistan**. While exploring **Data Structures and Algorithms (DSA)** in **JavaScript**, I noticed a lack of comprehensive, well-structured resources in one place—most DSA materials are tailored for **C++** or **Java**. This inspired me to create this repository to help others who, like me, want to master **DSA in JavaScript** while strengthening their problem-solving skills.
+I'm on a mission to strengthen my problem-solving skills by diving into Data Structures and Algorithms (DSA). As a React.js developer, I primarily work with JavaScript, but I'm also exploring C++ to broaden my understanding. My goal is to practice LeetCode and master DSA fundamentals, improving my efficiency in writing optimized code. This repository will track my progress, solutions, and key learnings along the way!
 
-I am following **Striver's DSA Series** and translating the problems covered in the series into **JavaScript**. My goal is to provide a structured and valuable learning experience for anyone looking to build a solid foundation in **DSA using JavaScript**.
+I am following different resources to learn **DSA** and mentioned all that stuff in this repo. 
 
 ## 📌 What's Inside?
 
-✔ **A curated list of learning resources** for DSA in JavaScript.  
+✔ **A curated list of learning resources** for DSA in C++.  
 ✔ **A collection of solved problems**, categorized for easy navigation.
 
 I hope this repository serves as a valuable resource in your learning journey. **Happy coding!** 🚀
 
 <h2>Resources:</h2>
-<table>
+<table align="center">
   <thead>
     <tr align="center">
       <td align="center"><b>Serial No.</b></td>
@@ -25,184 +25,11 @@ I hope this repository serves as a valuable resource in your learning journey. *
     </tr>
   </thead>
   <tbody>
-<!--     Time and Space Complexity - Strivers A2Z DSA Course -->
-    <tr>
-      <td align="center">
-        1
-      </td>
-      <td align="center">
-        Time and Space Complexity - Strivers A2Z DSA Course
-      </td>
-      <td align="center"><a href="https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/" target="_blank">Time and Space Complexity - Strivers A2Z   DSA Course</a>
-      </td>
+      <tr align="center">
+      <td align="center"><b>1</b></td>
+       <td align="center"><b>Playlist</b></td>
+       <td align="center"><b><a href="https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt">Checkout Playlist</a></b></td>
     </tr>
-<!-- ====> Basic Maths Start <===== -->
-    <tr>
-    <td align="center">2</td>
-      <td colspan="4" align="center"><b>Basic Maths (Strivers A2Z DSA Course/Sheet)</b>
-      </td>
-    </tr>
-<!-- Count Digits -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/data-structure/count-digits-in-a-number/">Count Digits</a></td>
-    </tr>
-<!-- Reverse a Number -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/maths/reverse-digits-of-a-number">Reverse a Number</a></td>
-    </tr>
-<!-- Check Palindrome -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/">Check Palindrome</a></td>
-    </tr>
-<!-- GCD or HCF -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/data-structure/find-gcd-of-two-numbers/">GCD or HCF</a></td>
-    </tr>
-<!-- Armstrong Number -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/">Armstrong Number</a></td>
-    </tr>
-<!-- Print all Divisors -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/">Print All Divisors </a></td>
-    </tr>
-<!-- Check for Prime -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/">Check For Prime</a></td>
-    </tr>
-<!-- =====> Basic Maths End <===== -->
-<!-- =====> Recursion Start <===== -->
-    <tr>
-    <td align="center">3</td>
-      <td colspan="3" align="center"><b>Learn Recursions (Strivers A2Z DSA Course/Sheet)</b>
-      </td>
-    </tr>
-<!-- Learn Recursion By Print Something N Times -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/">Learn Recursion By Print Something N Times</a>
-      </td>
-    </tr>
-<!-- Print name N times using recursion -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/recursion/print-name-n-times-using-recursion/">Print name N times using recursion</a>
-      </td>
-    </tr>
-<!-- Print 1 to N using Recursion -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/recursion/print-1-to-n-using-recursion/">Print 1 To N Using Recursion</a>
-      </td>
-    </tr>
-<!-- Print N to 1 using recursion -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/recursion/print-n-to-1-using-recursion/">Print N To 1 Using Recursion</a>
-      </td>
-    </tr>
-<!-- Sum of first N Natural Numbers -->
-     <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/">Sum Of First N Natural Numbers</a>
-      </td>
-    </tr>
-    <!-- Factorial of a Number : Recursive -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive/">Factorial of a Number : Iterative and Recursive</a>
-      </td>
-   </tr>
-<!-- Reverse an array -->
-   <tr>
-     <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/data-structure/reverse-a-given-array/ ">Reverse an Array</a>
-      </td>
-    </tr>
-<!-- Check if a given string is palindrome or not -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/">Check If a Given String Is Palindrome or Not</a>
-      </td>
-    </tr>
-<!-- Fibonacci Number -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/">Fibonacci Number</a>
-      </td>
-    </tr>
-<!-- =====> Recursion End <===== -->
-<!-- Hashing Start -->
-     <tr>
-    <td align="center">4</td>
-      <td colspan="3" align="center"><b>Learn Basic Hashing (Strivers A2Z DSA Course/Sheet + chatGPT Conversation)</b> </td>
-    </tr>
-<!-- Basic Hashing -->
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">chatGPT Conversation</td>
-      <td align="center"><a href="https://chatgpt.com/share/67c09543-d0ac-8001-ba6c-1e5e91f64798">Basics of Hashing</a>
-      </td>
-    </tr>
-<!-- Count frequency of numbers -->
-     <tr>
-      <td align="center">✔️</td>
-      <td align="center">Article</td>
-      <td align="center"><a href="https://takeuforward.org/data-structure/count-frequency-of-each-element-in-the-array/">Count Frequency of Each Number</a>
-      </td>
-    </tr>
-<!-- Hashing End -->
-<!-- =====> Singly linkedlist document and chatGPT conversation start <===== -->
-    <tr>
-      <td align="center">5</td>
-      <td>Singly linkedlist document and chatGPT conversation</td>
-      <td align="center">
-        <ul>
-          <li>
-            <a href="https://www.scaler.com/topics/linked-list-in-javascript/" target="_blank">Document Link</a>
-          </li>
-          <li>
-            <a href="https://chatgpt.com/share/67755e74-12ac-8001-9192-550d18f008b3" target="_blank">chatGPT conversation</a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <!-- =====> Singly linkedlist document and chatGPT conversation end <===== -->
-<!-- =====> Two Pointers & Hashmap Start <===== -->
-    <tr>
-      <td align="center">5</td>
-      <td align="center">Two Pointers & Hashmap</td>
-      <td align="center">
-         <ul>
-          <li>Learn two pointers and hashmap algorithms using chatGPT.</li>
-          <li>You may see the chatGPT converation by <a href="https://chatgpt.com/share/67782685-6744-8001-bf31-c7ed51687318">Clicking Here</a></li>
-        </ul>
-      </td>
-    </tr>
-    <!-- =====> Two Pointers & Hashmap End <===== -->
   </tbody>
 </table>
 <!-- Problems -->
