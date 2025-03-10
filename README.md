@@ -14,21 +14,28 @@ I am following different resources to learn **DSA** and mentioned all that stuff
 ✔ **A collection of solved problems**, categorized for easy navigation.
 
 I hope this repository serves as a valuable resource in your learning journey. **Happy coding!** 🚀
-
+<!-- Resources -->
 <h2>Resources:</h2>
 <table align="center">
   <thead>
     <tr align="center">
       <td align="center"><b>Serial No.</b></td>
-       <td align="center"><b>Resource Type</b></td>
-       <td align="center"><b>Resource Link</b></td>
+      <td align="center"><b>Resource Type</b></td>
+      <td align="center"><b>Resource Link</b></td>
     </tr>
   </thead>
   <tbody>
-      <tr align="center">
+<!-- Playlist -->
+    <tr align="center">
       <td align="center"><b>1</b></td>
-       <td align="center"><b>Playlist</b></td>
-       <td align="center"><b><a href="https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt">Checkout Playlist</a></b></td>
+      <td align="center"><b>Playlist</b></td>
+      <td align="center"><b><a href="https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt">Checkout Playlist</a></b></td>
+    </tr>
+<!-- Kadane's Algorithm -->
+     <tr align="center">
+      <td align="center"><b>2</b></td>
+      <td align="center"><b>Article</b></td>
+      <td align="center"><b><a href="https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/">Kadane's Algorithm : Maximum Subarray Sum in an Array</a></b</td>
     </tr>
   </tbody>
 </table>
