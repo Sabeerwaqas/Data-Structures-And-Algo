@@ -45,6 +45,37 @@ int maxSubArrayByKadanes(vector<int> array, int size)
     return sum;
 }
 
+// -----> pairSum <----- \\
+
+vector<int> pairSum(vector<int> nums, int target)
+{
+    vector<int> ans;
+    int n = nums.size();
+    int i = 0;
+    int j = n - 1;
+
+    while (i < j)
+    {
+        int pairSum = nums[i] + nums[j];
+        if (pairSum > target)
+        {
+            j--;
+        }
+        else if (pairSum < target)
+        {
+            i++;
+        }
+        else
+        {
+            ans.push_back(i);
+            ans.push_back(j);
+            return ans;
+        }
+    }
+
+    return ans;
+}
+
 int main()
 {
 
@@ -58,6 +89,14 @@ int main()
     // -----> Maximum sunarray sum using Kadane's algo. <----- \\
 
     cout << maxSubArrayByKadanes(numArray, size) << endl;
+
+    // -----> pairSum <----- \\
+
+    vector<int> array = {2, 7, 11, 15};
+    int target = 9;
+
+    vector<int> answer = pairSum(array, target);
+    cout << "ans[i] " << answer[0] << " " << "ans[j] " << answer[1] << endl;
 
     return 0;
 }
