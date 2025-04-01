@@ -1,4 +1,4 @@
-query;
+// query;
 
     // cin >> query;
 
